@@ -1,2 +1,2 @@
 # ML
-ML basis scripts
+Some ML basis scripts I did when learning ML
